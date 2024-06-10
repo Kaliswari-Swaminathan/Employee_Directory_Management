@@ -1,9 +1,7 @@
 **Objective:  **
 
             To develop a centralized employee directory management system that allows easy access, creating, updating, and deletion of employee information. 
-
- 
-
+            
 **Key Features: **
 
 Employee Profiles: Store information about each employee  
