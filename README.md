@@ -1,7 +1,7 @@
-**Objective:**
-            To develop a centralized employee directory management system that allows easy access, creating, updating, and deletion of employee information.    
+# Employee Directory Management
+This app allows easy access, creating, updating, and deletion of employee information.    
             
-**Key Features:**
+## Key Features:
 
 1. **Employee Profiles:** Store information about each employee  
 2. **Sort Functionality:** Provide employee details that was sorted by employee’s first Name 
@@ -9,7 +9,7 @@
 4. **Alerts:** Whenever user tries to delete the details , the browser will prompt to ensure employee details details.
 5. **Redirection:** User can easily move back to home page by clicking back link. 
 
-**Tools and Technologies:**
+### Tools and Technologies:
 
 + **Frontend:** HTML,CSS,Bootstrap, Thymeleaf Template Engine 
 + **Backend:**  Spring Boot 
